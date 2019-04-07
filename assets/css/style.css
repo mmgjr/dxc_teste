@@ -1,0 +1,16 @@
+body{
+	font-family: Arial,Helvetica,Times,sans-serif;
+	
+}
+#avatar{
+	height: 300px;
+}
+#characterList{
+	margin-top: 15px;
+}
+#characterList-header{
+	background-color: #BBCAE8;
+}
+.table-spell{
+	text-align: center;
+}
